@@ -1,15 +1,18 @@
 # thanos?
-주로 TypeScript, Node.js, Javascript 에 대해서 학습한 내용을 정리하는 곳입니다.  
+
+![thanos](https://user-images.githubusercontent.com/37819666/153756247-4239160b-31f6-4f00-9b83-a821d4e288c9.gif)  
+
+주로 TypeScript, Node.js, Javascript 에 대해서 학습한 내용들을 정리하는 곳입니다.   
 
 
-## 📝 목표
-* 매주 1개의 포스트를 정리해서 올립니다.
+### 📝 목표
+* 매주 각자 1개의 포스트를 정리해서 올립니다.
 * 기술도서를 정해서 읽어도 좋고, 관심있는 주제를 정해서 정리한 내용도 좋습니다 😄
 
 <br />
 
 # TypeScript
-## 📌 이펙티브 타입스크립트 (JeongHyeon)
+### 📌 이펙티브 타입스크립트 (JeongHyeon)
 * [1장(타입스크립트 알아보기)](https://github.com/forest-membership/thanos/blob/main/Typescript/effective-typescript-section1.md)  
 * [2장(타입 시스템) part 1](https://github.com/forest-membership/thanos/blob/main/Typescript/effective-typescript-section2-1.md)  
 * [2장(타입 시스템) part 2](https://github.com/forest-membership/thanos/blob/main/Typescript/effective-typescript-section2-2.md)  
@@ -24,14 +27,14 @@
 <br />
 
 # JavaScript
-## 📌 자바스크립트는 왜 그 모양일까 (Seunghyo Ku)
+### 📌 자바스크립트는 왜 그 모양일까 (Seunghyo Ku)
 * [1장 - Number](https://github.com/forest-membership/thanos/blob/main/JavaScript/Number.md)  
 * [2장 - Boolean](https://github.com/forest-membership/thanos/blob/main/JavaScript/Bool.md)  
 
 <br />
 
 # Node.js
-## 📌 Node.js 디자인 패턴 (Kyungsu Kang)
+### 📌 Node.js 디자인 패턴 (Kyungsu Kang)
 * [Node의 모듈 시스템과 require](https://github.com/forest-membership/thanos/blob/main/Node.js/Node%EC%9D%98%20%EB%AA%A8%EB%93%88%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC%20require.md)  
 * [ECMAScript 모듈](https://github.com/forest-membership/thanos/blob/main/Node.js/ECMAScript%20Module.md)  
 * [cluster 모듈과 로드 밸런싱](https://github.com/forest-membership/thanos/blob/main/Node.js/Node.js%EC%9D%98_Cluster_Module%EA%B3%BC%2C_%EB%A1%9C%EB%93%9C_%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)  
