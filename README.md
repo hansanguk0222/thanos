@@ -1,4 +1,4 @@
-# thanos?
+# Thanos?
 
 ![thanos](https://user-images.githubusercontent.com/37819666/153756247-4239160b-31f6-4f00-9b83-a821d4e288c9.gif)  
 
@@ -41,3 +41,8 @@
 * [Promise에 대한 소개](https://github.com/forest-membership/thanos/blob/main/Node.js/Promise%EC%97%90_%EB%8C%80%ED%95%9C_%EC%86%8C%EA%B0%9C.md)  
 * [관찰자 패턴](https://github.com/forest-membership/thanos/blob/main/Node.js/%EA%B4%80%EC%B0%B0%EC%9E%90_%ED%8C%A8%ED%84%B4.md)  
 * [콜백과 이벤트](https://github.com/forest-membership/thanos/blob/main/Node.js/%EC%BD%9C%EB%B0%B1%EA%B3%BC_%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)  
+
+<br />
+
+# 📚 함께 읽어봐요
+* [인프런 2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
